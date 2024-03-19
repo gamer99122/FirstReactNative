@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1441bb12-736b-4e5e-9fb3-887a61ad81d1"
+      }
+    },
+    "owner": "shengfeng"
   }
 }
